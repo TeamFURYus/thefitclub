@@ -202,7 +202,7 @@ section {
 }
 
 .form1{
- 
+  width: 400px;
   background-color: rgba(41, 39, 39, 0.3);
   box-shadow: 0 5px 30px black;
   align-items: center ;
@@ -231,7 +231,7 @@ section {
   font-size: 14px;
   font-weight: bold;
   background-color: transparent;
-  color: white;
+  color: rgb(202, 50, 50);
 }
 input:focus {
   outline: none !important;
