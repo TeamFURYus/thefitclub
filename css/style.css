@@ -335,31 +335,3 @@ body
   .apexcharts-xaxistooltip.apexcharts-xaxistooltip-bottom.apexcharts-theme-light {
   display: none;
 }
-.btnx {
-  background: #ffffff;
-  background-image: -webkit-linear-gradient(top, #ffffff, #ff5521);
-  background-image: -moz-linear-gradient(top, #ffffff, #ff5521);
-  background-image: -ms-linear-gradient(top, #ffffff, #ff5521);
-  background-image: -o-linear-gradient(top, #ffffff, #ff5521);
-  background-image: linear-gradient(to bottom, #ffffff, #ff5521);
-  -webkit-border-radius: 28;
-  -moz-border-radius: 28;
-  border-radius: 28px;
-  text-shadow: 0px 0px 30px #666666;
-  font-family: Courier New;
-  color: #000000;
-  font-size: 20px;
-  padding: 10px 20px 10px 20px;
-  border: solid #ffffff 2.5px;
-  text-decoration: none;
-}
-
-.btnx:hover {
-  background: #ff4621;
-  background-image: -webkit-linear-gradient(top, #ff4621, #ffffff);
-  background-image: -moz-linear-gradient(top, #ff4621, #ffffff);
-  background-image: -ms-linear-gradient(top, #ff4621, #ffffff);
-  background-image: -o-linear-gradient(top, #ff4621, #ffffff);
-  background-image: linear-gradient(to bottom, #ff4621, #ffffff);
-  text-decoration: none;
-}
